@@ -1,6 +1,6 @@
 # Building Data Science Team
 
-This space is for my book Building Data Science Team - Book
+This space is for my book Building Data Science Team
 
 ## Chapter 1
 - Technical Knowledge
