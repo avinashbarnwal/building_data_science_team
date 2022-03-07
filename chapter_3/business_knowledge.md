@@ -1,5 +1,5 @@
 ## Business Understanding
-- Different part of the Business
+- Different parts of the Business
 - Customer Journey
 
 
