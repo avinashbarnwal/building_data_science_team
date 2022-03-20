@@ -1,6 +1,6 @@
 ## Team Topologies
 - Eco-system
-  - Data Science & Machine Learnning Team
+  - Data Science & Machine Learning Team
   - Data Architecture Team 
   - Business Intelligence Engineering Team
   - Data Analytics Team
