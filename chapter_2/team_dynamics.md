@@ -17,9 +17,12 @@
   - Business Intelligence Engineering Team
   - Data Analytics Team
   - Data Engineering Team
+ - https://hbr.org/2015/06/reward-your-best-teams-not-just-star-players
 
 ## Efficiency
 
 ## Team Scalability
+
+
 
 
