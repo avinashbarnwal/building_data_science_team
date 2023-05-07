@@ -18,6 +18,7 @@
   - Data Analytics Team
   - Data Engineering Team
  - https://hbr.org/2015/06/reward-your-best-teams-not-just-star-players
+ - https://www.qualitygurus.com/the-9-belbin-team-roles-and-what-they-accomplish/
 
 ## Efficiency
 
