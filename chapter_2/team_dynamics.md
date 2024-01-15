@@ -25,6 +25,7 @@
 
 ## Team Scalability
 
-
-
+## Leadership
+- Leadership in Flow
+-     https://www.linkedin.com/pulse/being-flow-vivek-gambhir-zre7c/
 
