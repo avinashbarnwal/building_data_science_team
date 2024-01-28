@@ -15,3 +15,9 @@
 - Operations
 - Finance
 - Accounting
+
+ ## ML project works from end to end
+ - What will the model predict?
+ - Precisely how will those predictions affect operations?
+ - Which metric meaningfully tracks how well it predicts?
+ - What kind of data is needed?
